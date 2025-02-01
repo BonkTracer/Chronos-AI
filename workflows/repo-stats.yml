@@ -1,0 +1,15 @@
+name: GitHub Repo Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  repo-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get repository stats
+        run: curl -s https://api.github.com/repos/ChronosAI-lab/Chronos-AI | jq '.stargazers_count'
