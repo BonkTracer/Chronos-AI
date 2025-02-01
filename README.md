@@ -13,6 +13,8 @@ Before you begin, ensure that you have the following installed:
 - Jupyter Notebook
 - pip (for installing Python packages)
 
+![GitHub Repo stars](https://img.shields.io/github/stars/ChronosAI-lab/Chronos-AI?style=social)
+
 ## Installation
 ### Clone the Repository:
 ```sh
