@@ -16,8 +16,8 @@ Before you begin, ensure that you have the following installed:
 ## Installation
 ### Clone the Repository:
 ```sh
-git clone https://github.com/your-repository/chronos-ai.git
-cd chronos-ai
+git clone https://github.com/your-repository/harpooner-ai.git
+cd harpooner-ai
 ```
 
 ### Install Dependencies:
