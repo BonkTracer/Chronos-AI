@@ -1,6 +1,6 @@
-# Chronos AI: Solana Blockchain Monitoring and Analysis
+# Harpooner AI: Solana Blockchain Monitoring and Analysis
 
-Chronos AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
+Harpooner AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
 
 ## Key Features
 - **Anomaly Detection:** Detects unusual behavior in Solana blockchain transactions.
@@ -12,8 +12,6 @@ Before you begin, ensure that you have the following installed:
 - Python 3.8 or above
 - Jupyter Notebook
 - pip (for installing Python packages)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/ChronosAI-lab/Chronos-AI?style=social)
 
 ## Installation
 ### Clone the Repository:
@@ -47,7 +45,7 @@ The project is composed of three main Jupyter notebooks:
 
 ## Folder Structure
 ```
-chronos-ai/
+harpooner-ai/
 ├── anomaly_detection.ipynb
 ├── price_prediction.ipynb
 ├── whale_activity_analysis.ipynb
