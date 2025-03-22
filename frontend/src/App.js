@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       <header style={{ textAlign: 'center', padding: '20px' }}>
-        <h1>Welcome to Deeptracer AI</h1>
+        <h1>Welcome to Cetacea AI</h1>
         <p>Monitor and Analyze Solana Token Activities in Real-Time</p>
       </header>
       
