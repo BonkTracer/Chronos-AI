@@ -1,6 +1,6 @@
-# Deeptracer AI: Solana Blockchain Monitoring and Analysis
+# Cetacea AI: Solana Blockchain Monitoring and Analysis
 
-Deeptracer AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
+Cetacea AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
 
 ## Key Features
 - **Anomaly Detection:** Detects unusual behavior in Solana blockchain transactions.
@@ -16,8 +16,8 @@ Before you begin, ensure that you have the following installed:
 ## Installation
 ### Clone the Repository:
 ```sh
-git clone https://github.com/your-repository/Deeptracer-ai.git
-cd Deeptracer-ai
+git clone https://github.com/your-repository/Cetacea-ai.git
+cd Cetacea-ai
 ```
 
 ### Install Dependencies:
@@ -45,7 +45,7 @@ The project is composed of three main Jupyter notebooks:
 
 ## Folder Structure
 ```
-Deeptracer-ai/
+Cetacea-ai/
 ├── anomaly_detection.ipynb
 ├── price_prediction.ipynb
 ├── whale_activity_analysis.ipynb
