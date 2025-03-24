@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       <header style={{ textAlign: 'center', padding: '20px' }}>
-        <h1>Welcome to Megaptera AI</h1>
+        <h1>Welcome to Sonar Whale AI</h1>
         <p>Monitor and Analyze Solana Token Activities in Real-Time</p>
       </header>
       
