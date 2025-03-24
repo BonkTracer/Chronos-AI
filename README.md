@@ -16,8 +16,8 @@ Before you begin, ensure that you have the following installed:
 ## Installation
 ### Clone the Repository:
 ```sh
-git clone https://github.com/your-repository/Sonar Whale-ai.git
-cd Sonar Whale-ai
+git clone https://github.com/your-repository/SonarWhale-ai.git
+cd SonarWhale-ai
 ```
 
 ### Install Dependencies:
