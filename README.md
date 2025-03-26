@@ -16,8 +16,8 @@ Before you begin, ensure that you have the following installed:
 ## Installation
 ### Clone the Repository:
 ```sh
-git clone https://github.com/your-repository/SonarWhale-ai.git
-cd SonarWhale-ai
+git clone https://github.com/your-repository/chronos-ai.git
+cd chronos-ai
 ```
 
 ### Install Dependencies:
