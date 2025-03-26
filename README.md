@@ -1,6 +1,6 @@
-# Sonar Whale AI: Solana Blockchain Monitoring and Analysis
+# Chronos AI: Solana Blockchain Monitoring and Analysis
 
-Sonar Whale AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
+Chronos AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
 
 ## Key Features
 - **Anomaly Detection:** Detects unusual behavior in Solana blockchain transactions.
@@ -45,7 +45,7 @@ The project is composed of three main Jupyter notebooks:
 
 ## Folder Structure
 ```
-Sonar Whale-ai/
+Chronos-ai/
 ├── anomaly_detection.ipynb
 ├── price_prediction.ipynb
 ├── whale_activity_analysis.ipynb
