@@ -1,6 +1,6 @@
-# Chronos AI: Solana Blockchain Monitoring and Analysis
+# Bonk Tracer: Solana Blockchain Monitoring and Analysis
 
-Chronos AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
+Bonk Tracer is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
 
 ## Key Features
 - **Anomaly Detection:** Detects unusual behavior in Solana blockchain transactions.
@@ -16,8 +16,8 @@ Before you begin, ensure that you have the following installed:
 ## Installation
 ### Clone the Repository:
 ```sh
-git clone https://github.com/your-repository/chronos-ai.git
-cd chronos-ai
+git clone https://github.com/your-repository/bonk-tracer.git
+cd bonk-tracer
 ```
 
 ### Install Dependencies:
@@ -45,7 +45,7 @@ The project is composed of three main Jupyter notebooks:
 
 ## Folder Structure
 ```
-Chronos-ai/
+bonk-tracer/
 ├── anomaly_detection.ipynb
 ├── price_prediction.ipynb
 ├── whale_activity_analysis.ipynb
@@ -58,7 +58,7 @@ Chronos-ai/
 - 📜 **`requirements.txt`**: Lists dependencies for the project.
 
 ## Dependencies
-Here are the main dependencies used in Chronos AI:
+Here are the main dependencies used in Bonk Tracer:
 - 📊 `pandas`
 - 🔢 `numpy`
 - 📉 `matplotlib`
